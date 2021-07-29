@@ -1,0 +1,76 @@
+
+ 
+  .carousel-item {
+      height: 25rem;
+      background: #264653;
+      color: white;
+      position: relative;
+  }
+
+  #container-1 {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+
+      right: 0;
+      padding-bottom: 50PX;
+
+  }
+
+  #container-2 {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+
+      right: 0;
+      padding-bottom: 50PX;
+      text-align: center;
+
+  }
+
+  #container-3 {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+
+      right: 0;
+      padding-bottom: 50PX;
+      text-align: right;
+
+  }
+
+  .container {
+      justify-content: space-between;
+      margin-top: 80px;
+
+
+  }
+
+
+.honda-btn-primary{
+    background-color: #E76F51 !important;
+}
+.honda-bg-success{
+    background-color: #264653;
+    
+}
+.header-detail {
+    color:  #FFFFFF;
+    
+}
+/* .honda-btn-primary{
+    background-color:  #E76F51 !important;
+    border: none;
+} */
+.btn:hover{
+    background-color: #E76F51;
+}
+.fa-instagram{
+ 
+}
+hr {
+    width: 58.5px;
+    height: 5px;
+    
+    margin-top: 0;
+}
