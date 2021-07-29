@@ -68,10 +68,10 @@
 .fa-instagram{
  
 }
-.card {
+.explore-card {
     transition: transform 0.5s;
 }
 
-.card:hover {
+.explore-card:hover {
     transform: translateY(-10px);
 }
